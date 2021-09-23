@@ -24,7 +24,7 @@ https://napari.org/docs/plugins/index.html
 
 You can install `napari-hdf5-hts` via [pip]:
 
-    pip install napari-hdf5-hts
+    python -m pip install git+https://github.com/delnatan/napari-hdf5-hts.git
 
 ## Contributing
 
